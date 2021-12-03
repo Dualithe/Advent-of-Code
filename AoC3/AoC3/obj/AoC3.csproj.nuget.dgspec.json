@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dualithe\\source\\repos\\Advent-of-Code\\AoC2\\AoC2\\AoC2.csproj": {}
+    "C:\\Users\\Dualithe\\source\\repos\\Advent-of-Code\\AoC3\\AoC3\\AoC3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dualithe\\source\\repos\\Advent-of-Code\\AoC2\\AoC2\\AoC2.csproj": {
+    "C:\\Users\\Dualithe\\source\\repos\\Advent-of-Code\\AoC3\\AoC3\\AoC3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dualithe\\source\\repos\\Advent-of-Code\\AoC2\\AoC2\\AoC2.csproj",
-        "projectName": "AoC2",
-        "projectPath": "C:\\Users\\Dualithe\\source\\repos\\Advent-of-Code\\AoC2\\AoC2\\AoC2.csproj",
+        "projectUniqueName": "C:\\Users\\Dualithe\\source\\repos\\Advent-of-Code\\AoC3\\AoC3\\AoC3.csproj",
+        "projectName": "AoC3",
+        "projectPath": "C:\\Users\\Dualithe\\source\\repos\\Advent-of-Code\\AoC3\\AoC3\\AoC3.csproj",
         "packagesPath": "C:\\Users\\Dualithe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dualithe\\source\\repos\\Advent-of-Code\\AoC2\\AoC2\\obj\\",
+        "outputPath": "C:\\Users\\Dualithe\\source\\repos\\Advent-of-Code\\AoC3\\AoC3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

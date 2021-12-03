@@ -8,7 +8,7 @@ namespace AoC1
     class Program
     {
 
-        public static List<string> text = System.IO.File.ReadLines(@"C:\Users\Dualithe\source\repos\AoC1\AoC1\input.txt").ToList();
+        public static List<string> text = System.IO.File.ReadLines(@"C:\Users\Dualithe\source\repos\Advent-of-Code\AoC1\AoC1\input.txt").ToList();
         public static List<int> input = new List<int>();
 
         static void Main(string[] args)

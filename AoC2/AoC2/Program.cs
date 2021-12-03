@@ -8,7 +8,7 @@ namespace AoC2
 {
     class Program
     {
-        public static List<string> text = System.IO.File.ReadLines(@"C:\Users\Dualithe\source\repos\AoC2\AoC2\input.txt").ToList();
+        public static List<string> text = System.IO.File.ReadLines(@"C:\Users\Dualithe\source\repos\Advent-of-Code\AoC2\AoC2\input.txt").ToList();
 
         static void Main(string[] args)
         {
